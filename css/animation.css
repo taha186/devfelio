@@ -1,0 +1,36 @@
+@keyframes Skills{
+
+    0%{ content: "|"; }
+
+    4% { content: "D"; }
+    8% { content: "De"; }
+    12% { content: "Dev"; }
+    16% { content: "Deve"; }
+    20% { content: "Devel"; }
+    24% { content: "Develo"; }
+    28% { content: "Develop"; }
+    32% { content: "Develope"; }
+    36% { content: "Developer"; }
+    40%{ content: ""; }
+
+    43% { content: "D"; }
+    46% { content: "De"; }
+    49% { content: "Des"; }
+    52% { content: "Desi"; }
+    55% { content: "Desig"; }
+    58% { content: "Design"; }
+    61% { content: "Designe"; }
+    64% { content: "Designer"; }
+
+    68% { content: "fr"; }
+    72% { content: "fre"; }
+    76% { content: "freel"; }
+    80% { content: "freela"; }
+    84% { content: "freelan"; }
+    88% { content: "freelanc"; }
+    92% { content: "freelace"; }
+    96% { content: "freelancer"; }
+
+    
+
+}

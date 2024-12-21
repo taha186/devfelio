@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+
+  /* *navbar */
+  .navbar .dropstart .dropdown-menu {
+    position: absolute;
+    right: 30%;
+    top: 0;
+  }
+
+  /* *home */
+  #home .header-caption h1 {
+    font-size: 3.125rem;
+  }
+
+}
